@@ -1,0 +1,1 @@
+Idea http://arduino.ru/forum/proekty/sutochnyi-termostat-dlya-gazovogo-kotla
